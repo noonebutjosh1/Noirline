@@ -72,7 +72,7 @@ All design decisions, structure, and final implementation were personally review
 
  Live Preview
    
-https://github.com/noonebutjosh1
+https://github.com/noonebutjosh1/Noirline
 
 ---
 
